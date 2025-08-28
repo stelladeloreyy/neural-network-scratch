@@ -8,6 +8,7 @@ This project is a learning sandbox for building a basic two-layer neural network
 
 ## Getting Started
 1. Install dependencies:
+
    ```sh
    pip install -r requirements.txt
    ```
