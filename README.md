@@ -14,8 +14,6 @@ neural-network-scratch/
 ├── tests/          
 ├── requirements.txt
 ├── README.md
-└── .github/
-    └── copilot-instructions.md
 ```
 
 ## Getting Started
