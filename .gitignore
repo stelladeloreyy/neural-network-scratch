@@ -3,3 +3,4 @@ src/fashion-mnist_train.csv
 src/fashion-mnist_test.csv
 src/Testing
 src/Training
+main-alt.py
